@@ -1,4 +1,4 @@
 MajoJS
 ======
 
-Simple javascript from validator
+Simple javascript form validator
